@@ -52,6 +52,10 @@ Hello from Java in Docker! ☕🐳
 Java version: 17.0.x
 OS: Linux
 ```
+## 📸 Результат запуска
+
+![Вывод приложения](terminal.png)
+
 
 ## ✅ Результат
 
